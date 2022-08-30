@@ -1,9 +1,9 @@
-# DogPoopDetector
+# Dog Poop Detector
+This repo contains the code for the project as seen here: https://www.youtube.com/watch?v=uWZu3rnj-kQ
 
+To use the model I trained on my dog, extract it from the tarball in `/exported-models` and point to it in `live.py`
 
-
-
-
+TODO: Fill rest of this out
 
 
 
